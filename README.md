@@ -1,6 +1,6 @@
 
 <!--Banner-->
-![Header](./assests/mathin_header.png)
+![Header](./assets/mathin_header.png)
 
 <!--Night Owl image-->
 <div>
@@ -8,7 +8,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tagesschrift&size=30&pause=1000&color=000000&width=435&lines=Hi%2C+I'm+Mathinraj+!)](https://git.io/typing-svg)
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tagesschrift&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+I'm+Mathinraj+!)](https://git.io/typing-svg)
 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
