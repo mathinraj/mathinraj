@@ -46,7 +46,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mathinraj&theme=dark&show_icons=true&count_private=true" />
   <br></br>
    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mathinraj&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
