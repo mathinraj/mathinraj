@@ -1,0 +1,30 @@
+[
+  {
+    "id": "spendtrak",
+    "name": "SpendTrak",
+    "desc": "Free expense tracker with Google Drive sync",
+    "url": "https://spendtrak.vercel.app/",
+    "icon": "💰"
+  },
+  {
+    "id": "undrive",
+    "name": "Undrive",
+    "desc": "Hidden storage in your Google Drive",
+    "url": "https://undrive-app.vercel.app/",
+    "icon": "🔒"
+  },
+  {
+    "id": "autoprompt",
+    "name": "AutoPrompt",
+    "desc": "Batch prompt automation for Copilot",
+    "url": "https://auto-prompt-for-copilot.vercel.app/",
+    "icon": "⚡"
+  },
+  {
+    "id": "touchlock",
+    "name": "TouchLock",
+    "desc": "Lock your browser with fingerprint & PIN",
+    "url": "https://touchlock.vercel.app/",
+    "icon": "🛡️"
+  }
+]
