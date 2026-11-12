@@ -1,5 +1,14 @@
 {
   "touchlock": "1.5.1",
+  "touchlock_release": {
+    "version": "1.5.3",
+    "note": "Idle lock now waits while you watch videos",
+    "browsers": {
+      "chrome":  { "version": "1.5.3", "note": "Idle lock now waits while you watch videos" },
+      "firefox": { "version": "1.5.3", "note": "Idle lock now waits while you watch videos" },
+      "edge":    { "version": "1.5.1", "note": "Stricter lock: nothing opens until you unlock" }
+    }
+  },
   "autoprompt": "1.2.0",
   "undrive": "1.0.0",
   "spendtrak": "2.0.0",
