@@ -4,8 +4,8 @@
     "version": "1.5.3",
     "note": "Idle lock now waits while you watch videos",
     "browsers": {
-      "chrome":  { "version": "1.5.3", "note": "Idle lock now waits while you watch videos" },
-      "firefox": { "version": "1.5.3", "note": "Idle lock now waits while you watch videos" },
+      "chrome":  { "version": "1.6.0", "note": "New Duress PIN, and a simpler Settings page" },
+      "firefox": { "version": "1.6.0", "note": "New Duress PIN, and a simpler Settings page" },
       "edge":    { "version": "1.5.1", "note": "Stricter lock: nothing opens until you unlock" }
     }
   },
