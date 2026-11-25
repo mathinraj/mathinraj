@@ -1,5 +1,13 @@
 [
   {
+    "id": "repolens",
+    "name": "RepoLens",
+    "desc": "AI answers for any GitHub repo or PR",
+    "url": "https://repolensio.vercel.app/",
+    "icon": "🔍",
+    "logo": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cmVjdCB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgcng9IjI5IiBmaWxsPSIjMTAxODI3Ii8+CiAgPGNpcmNsZSBjeD0iNTYiIGN5PSI1NSIgcj0iMzQiIGZpbGw9IiMxNzIzM0EiIHN0cm9rZT0iIzM4QkRGOCIgc3Ryb2tlLXdpZHRoPSI5Ii8+CiAgPHBhdGggZD0ibTgxIDgwIDI1IDI1IiBzdHJva2U9IiMzOEJERjgiIHN0cm9rZS13aWR0aD0iMTIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgogIDxwYXRoCiAgICBkPSJNNTYgMjZ2MTBNNTYgNzR2MTBNMjcgNTVoMTBNNzUgNTVoMTAiCiAgICBzdHJva2U9IiMyREQ0QkYiCiAgICBzdHJva2Utd2lkdGg9IjYiCiAgICBzdHJva2UtbGluZWNhcD0icm91bmQiCiAgLz4KICA8cGF0aAogICAgZD0ibTUwIDQzLTEyIDEyIDEyIDEyTTYyIDQzbDEyIDEyLTEyIDEyIgogICAgZmlsbD0ibm9uZSIKICAgIHN0cm9rZT0iI0Y4RkFGQyIKICAgIHN0cm9rZS13aWR0aD0iNiIKICAgIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIKICAvPgo8L3N2Zz4K"
+  },
+  {
     "id": "spendtrak",
     "name": "SpendTrak",
     "desc": "Free expense tracker with Google Drive sync",
